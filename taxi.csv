@@ -1,0 +1,20 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+taxi,transport,-,-,nonicon,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/5459.mp4
+taxi,transport,assoc_action+parts/wholes,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/5451.mp4
+taxi,transport,-,-,dactyl,American Sign Language,https://media.spreadthesign.com/video/mp4/13/50901.mp4
+taxi,transport,?,?,?,British Sign Language,https://media.spreadthesign.com/video/mp4/1/5455.mp4
+taxi,transport,?,?,?,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/5453.mp4
+taxi,transport,?,?,?,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177584.mp4
+taxi,transport,assoc_action+parts/wholes,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177583.mp4
+taxi,transport,assoc_action+parts/wholes,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/5458.mp4
+taxi,transport,-,-,nonicon,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/62459.mp4
+taxi,transport,parts/wholes,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/236994.mp4
+taxi,transport,parts/wholes,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/5460.mp4
+taxi,transport,?,?,?,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/5456.mp4
+taxi,transport,parts/wholes,object,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/5452.mp4
+taxi,transport,-,-,nonicon,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/5454.mp4
+taxi,transport,-,-,nonicon,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/52284.mp4
+taxi,transport,assoc_action+parts/wholes,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/102966.mp4
+taxi,transport,assoc_action+parts/wholes,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/63247.mp4
+taxi,transport,-,-,nonicon,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/57596.mp4
+taxi,transport,parts/wholes,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/53135.mp4

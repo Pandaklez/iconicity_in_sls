@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+boat,transport,assoc_action,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/181853.mp4
+boat,transport,assoc_action,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/259883.mp4
+boat,transport,assoc_action,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/124978.mp4
+boat,transport,assoc_action,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/77631.mp4
+boat,transport,assoc_action,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/56173.mp4
+boat,transport,assoc_action,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/203282.mp4
+boat,transport,assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/172410.mp4
+boat,transport,assoc_action,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/225251.mp4
+boat,transport,?,?,?,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/141500.mp4
+boat,transport,assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/148637.mp4
+boat,transport,assoc_action,object,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/28185.mp4
+boat,transport,assoc_action&assoc_action,object&handling,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/116175.mp4
+boat,transport,assoc_action,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/49833.mp4
+boat,transport,assoc_action&assoc_action,object&object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/217633.mp4
+boat,transport,assoc_action,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/217632.mp4
+boat,transport,assoc_action,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/70066.mp4
+boat,transport,assoc_action,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/84223.mp4
+boat,transport,form_similarity,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/156243.mp4

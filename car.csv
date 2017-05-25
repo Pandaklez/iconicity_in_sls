@@ -1,0 +1,21 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+car,transport,parts/wholes+assoc_action,handling,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/4015.mp4
+car,transport,parts/wholes+assoc_action,handling,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/4006.mp4
+car,transport,parts/wholes+assoc_action,handling,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/125780.mp4
+car,transport,parts/wholes+assoc_action,handling,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/4012.mp4
+car,transport,parts/wholes+assoc_action,handling,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/4010.mp4
+car,transport,parts/wholes+assoc_action,handling,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/151803.mp4
+car,transport,parts/wholes+assoc_action,handling,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/4007.mp4
+car,transport,-,-,nonicon,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/59944.mp4
+car,transport,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/59957.mp4
+car,transport,-,-,nonicon,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/325299.mp4
+car,transport,parts/wholes+assoc_action,handling,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/225799.mp4
+car,transport,parts/wholes+assoc_action,handling,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/335894.mp4
+car,transport,parts/wholes+assoc_action,handling,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/4013.mp4
+car,transport,?,handling,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/4009.mp4
+car,transport,parts/wholes+assoc_action,handling,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/4011.mp4
+car,transport,parts/wholes+assoc_action,handling,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/332470.mp4
+car,transport,parts/wholes+assoc_action&form_similarity,handling&tracing,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/102023.mp4
+car,transport,parts/wholes+assoc_action,handling,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55232.mp4
+car,transport,-,-,nonicon,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/62984.mp4
+car,transport,parts/wholes+assoc_action,handling,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/52384.mp4

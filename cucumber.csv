@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+cucumber,food,assoc_action,handling,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/8441.mp4
+cucumber,food,form_similarity&assoc_action,tracing&handling+object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/8439.mp4
+cucumber,food,?,?,?,American Sign Language,https://media.spreadthesign.com/video/mp4/13/74957.mp4
+cucumber,food,assoc_action,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/8435.mp4
+cucumber,food,parts/wholes,contour,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/8434.mp4
+cucumber,food,form_similarity&-,tracing&-,&nonicon,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177537.mp4
+cucumber,food,form_similarity,tracing,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/8438.mp4
+cucumber,food,form_similarity,tracing,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/61881.mp4
+cucumber,food,assoc_action,handling,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/149386.mp4
+cucumber,food,-,-,nonicon,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/8442.mp4
+cucumber,food,-&form_similarity,-&tracing,nonicon&,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/8436.mp4
+cucumber,food,form_similarity,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/8433.mp4
+cucumber,food,assoc_action,handling,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/43073.mp4
+cucumber,food,form_similarity,tracing,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/8437.mp4
+cucumber,food,-,-,dactyl,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103595.mp4
+cucumber,food,assoc_action,handling,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55888.mp4
+cucumber,food,-&form_similarity,-&tracing,nonicon&,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/64659.mp4
+cucumber,food,form_similarity,tracing,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/160166.mp4

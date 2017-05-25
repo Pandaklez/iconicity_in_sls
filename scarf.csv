@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+scarf,clothes,form_similarity,tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/14835.mp4
+scarf,clothes,assoc_action,handling,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/14843.mp4
+scarf,clothes,assoc_action,handling,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/65909.mp4
+scarf,clothes,assoc_action&assoc_action,handling&object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/14840.mp4
+scarf,clothes,assoc_action,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/14838.mp4
+scarf,clothes,assoc_action,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/201181.mp4
+scarf,clothes,assoc_action,handling,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/14834.mp4
+scarf,clothes,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/60044.mp4
+scarf,clothes,assoc_action&form_similarity,handling&tracing,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/250430.mp4
+scarf,clothes,assoc_action,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/336797.mp4
+scarf,clothes,assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/14841.mp4
+scarf,clothes,assoc_action,handling,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/14837.mp4
+scarf,clothes,form_similarity,tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/14839.mp4
+scarf,clothes,assoc_action,handling,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/293422.mp4
+scarf,clothes,-,-,dactyl,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/102844.mp4
+scarf,clothes,form_similarity,tracing,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/60989.mp4
+scarf,clothes,assoc_action,handling,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/60707.mp4
+scarf,clothes,assoc_action,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/54598.mp4

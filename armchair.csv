@@ -1,0 +1,18 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+armchair,house,form_similarity&parts/wholes,object&tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/181828.mp4
+armchair,house,assoc_action,handling,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/169271.mp4
+armchair,house,form_similarity&parts/wholes&assoc_action,object&tracing&handling,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/122553.mp4
+armchair,house,assoc_action,handling,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/226692.mp4
+armchair,house,assoc_action,handling,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/55214.mp4
+armchair,house,assoc_action&property/holder,object&handling,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/203040.mp4
+armchair,house,assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/113686.mp4
+armchair,house,form_similaruty,tracing,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/75818.mp4
+armchair,house,assoc_action&property/holder,object&handling,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/330138.mp4
+armchair,house,assoc_action,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/135353.mp4
+armchair,house,parts/wholes,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/79589.mp4
+armchair,house,parts/wholes,tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/132688.mp4
+armchair,house,parts/wholes,tracing,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/49551.mp4
+armchair,house,parts/wholes,tracing,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/52915.mp4
+armchair,house,parts/wholes,tracing,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/217367.mp4
+armchair,house,assoc_action&parts/wholes,object&tracing,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/68084.mp4
+armchair,house,parts/wholes,tracing,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/85059.mp4

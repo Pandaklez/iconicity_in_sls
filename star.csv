@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+star,nature,form_similarity,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/227962.mp4
+star,nature,form_similarity,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/282180.mp4
+star,nature,-,-,deixis,American Sign Language,https://media.spreadthesign.com/video/mp4/13/58550.mp4
+star,nature,assoc_action,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/248355.mp4
+star,nature,form_similarity,tracing,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/55793.mp4
+star,nature,?,?,?,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/277141.mp4
+star,nature,form_similarity,tracing,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/190349.mp4
+star,nature,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/89167.mp4
+star,nature,assoc_action,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/229091.mp4
+star,nature,form_similarity,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/136565.mp4
+star,nature,assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/120074.mp4
+star,nature,form_similarity&form_similarity,tracing&tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/44837.mp4
+star,nature,form_similarity,tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/157827.mp4
+star,nature,form_similarity,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/49740.mp4
+star,nature,form_similarity,contour,,Greek Sign Language,https://media.spreadthesign.com/video/mp4/38/212685.mp4
+star,nature,-&form_similarity,-&object,deixis&,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/176878.mp4
+star,nature,assoc_action,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/84793.mp4
+star,nature,-,-,deixis,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/162696.mp4

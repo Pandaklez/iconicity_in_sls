@@ -1,0 +1,18 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+dog,animals,assoc_action,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/13431.mp4
+dog,animals,-,-,nonicon,French Sign Language,https://media.spreadthesign.com/video/mp4/10/13432.mp4
+dog,animals,parts/wholes,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/47566.mp4
+dog,animals,assoc_action,?,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/13437.mp4
+dog,animals,parts/wholes,tracing,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/13435.mp4
+dog,animals,-,-,nonicon,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/178673.mp4
+dog,animals,assoc_action,?,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/13430.mp4
+dog,animals,assoc_action,?,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/59691.mp4
+dog,animals,parts/wholes,contour,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/262056.mp4
+dog,animals,assoc_action+parts/wholes,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/13433.mp4
+dog,animals,-,-,nonicon,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/13438.mp4
+dog,animals,-,-,nonicon,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/13434.mp4
+dog,animals,?,?,?,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/13436.mp4
+dog,animals,assoc_action,?,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/13439.mp4
+dog,animals,assoc_action,?,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/63227.mp4
+dog,animals,assoc_action,?,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/63043.mp4
+dog,animals,-,-,nonicon,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/52119.mp4

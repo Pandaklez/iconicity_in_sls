@@ -1,0 +1,20 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+mouse,animals,assoc_action,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/13491.mp4
+mouse,animals,form_similarity&assoc_action,object&object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/13493.mp4
+mouse,animals,parts/wholes,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/48605.mp4
+mouse,animals,-,-,deixis,British Sign Language,https://media.spreadthesign.com/video/mp4/1/13498.mp4
+mouse,animals,assoc_action,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/13496.mp4
+mouse,animals,assoc_action,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/198353.mp4
+mouse,animals,assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/13492.mp4
+mouse,animals,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/59452.mp4
+mouse,animals,form_similarity,tracing,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/156133.mp4
+mouse,animals,assoc_action,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/318578.mp4
+mouse,animals,?,?,?,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/13494.mp4
+mouse,animals,form_similarity,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/13499.mp4
+mouse,animals,assoc_action,object,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/13495.mp4
+mouse,animals,assoc_action,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/13497.mp4
+mouse,animals,assoc_action,contour,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/326644.mp4
+mouse,animals,assoc_action,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/102591.mp4
+mouse,animals,form_similarity,contour,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/58284.mp4
+mouse,animals,assoc_action,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/60333.mp4
+mouse,animals,parts/wholes,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/52145.mp4

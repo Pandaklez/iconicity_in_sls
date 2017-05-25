@@ -1,0 +1,18 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+cave,nature,form_similarity,tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/295907.mp4
+cave,nature,form_similarity,tracing,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/173890.mp4
+cave,nature,form_similarity,tracing,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/311666.mp4
+cave,nature,form_similarity,tracing,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/260297.mp4
+cave,nature,form_similarity&form_similarity,object&tracing,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/276082.mp4
+cave,nature,form_similarity,tracing,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/205750.mp4
+cave,nature,form_similarity,tracing,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/151517.mp4
+cave,nature,form_similarity&form_similarity+-,tracing&contour+-,&deixis,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/59145.mp4
+cave,nature,form_similarity&form_similarity+-,tracing&contour+-,&deixis,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/155441.mp4
+cave,nature,form_similarity&form_similarity+-,tracing&contour+-,&deixis,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/15638.mp4
+cave,nature,form_similarity+-,contour+-,deixis,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/53838.mp4
+cave,nature,-,-,nonicon,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/15631.mp4
+cave,nature,form_similarity&form_similarity+-,tracing&contour+-,&deixis,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/15633.mp4
+cave,nature,form_similarity+-,contour+-,deixis,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/15636.mp4
+cave,nature,form_similarity&form_similarity&-,tracing&contour&-,&&deixis,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55036.mp4
+cave,nature,form_similarity&form_similarity+-,tracing&contour+-,&deixis,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/63051.mp4
+cave,nature,form_similarity&form_similarity+-,tracing&contour+-,&deixis,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/52605.mp4

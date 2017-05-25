@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+turtle,animals,form_similarity,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/13461.mp4
+turtle,animals,form_similarity,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/13470.mp4
+turtle,animals,form_similarity,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/50931.mp4
+turtle,animals,form_similarity,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/13467.mp4
+turtle,animals,form_similarity,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/13465.mp4
+turtle,animals,form_similarity,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/13462.mp4
+turtle,animals,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/62967.mp4
+turtle,animals,assoc_action,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/239662.mp4
+turtle,animals,form_similarity,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/320952.mp4
+turtle,animals,form_similarity,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/143071.mp4
+turtle,animals,assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/13468.mp4
+turtle,animals,assoc_action,?,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/13464.mp4
+turtle,animals,assoc_action,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/13466.mp4
+turtle,animals,form_similarity,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/13469.mp4
+turtle,animals,-,-,dactyl,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103025.mp4
+turtle,animals,assoc_action,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55264.mp4
+turtle,animals,form_similarity,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/57646.mp4
+turtle,animals,form_similarity,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/52164.mp4

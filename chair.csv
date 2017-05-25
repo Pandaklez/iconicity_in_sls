@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+chair,house,form_similarity,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/7905.mp4
+chair,house,-,-,nonicon,French Sign Language,https://media.spreadthesign.com/video/mp4/10/7906.mp4
+chair,house,assoc_action,?,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/74909.mp4
+chair,house,assoc_action,handling,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/7901.mp4
+chair,house,assoc_action,?,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/7899.mp4
+chair,house,assoc_action,?,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177453.mp4
+chair,house,assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/7904.mp4
+chair,house,assoc_action,?,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/61752.mp4
+chair,house,assoc_action,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/223393.mp4
+chair,house,assoc_action,?,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/7907.mp4
+chair,house,assoc_action,handling,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/7902.mp4
+chair,house,assoc_action,handling,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/7898.mp4
+chair,house,form_similarity,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/7900.mp4
+chair,house,assoc_action,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/7903.mp4
+chair,house,assoc_action,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103547.mp4
+chair,house,assoc_action,?,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55957.mp4
+chair,house,assoc_action,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/66883.mp4
+chair,house,assoc_action,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/161038.mp4

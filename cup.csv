@@ -1,0 +1,18 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+cup,instruments,form_similarity,tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/8454.mp4
+cup,instruments,assoc_action,handling,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/8456.mp4
+cup,instruments,form_similarity,tracing,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/74958.mp4
+cup,instruments,assoc_action,handling,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/8461.mp4
+cup,instruments,assoc_action,handling,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/8459.mp4
+cup,instruments,assoc_action,handling,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/8455.mp4
+cup,instruments,form_similarity,tracing,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/61755.mp4
+cup,instruments,form_similarity,tracing,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/330411.mp4
+cup,instruments,assoc_action,handling,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/318583.mp4
+cup,instruments,assoc_action,handling,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/8457.mp4
+cup,instruments,form_similarity&assoc_action,tracing&handling,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/8462.mp4
+cup,instruments,form_similarity,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/8458.mp4
+cup,instruments,form_similarity,tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/8460.mp4
+cup,instruments,?,?,?,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/8463.mp4
+cup,instruments,form_similarity&form_similarity,tracing&tracing,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/56495.mp4
+cup,instruments,form_similarity,contour,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/66864.mp4
+cup,instruments,assoc_action,handling,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/98057.mp4

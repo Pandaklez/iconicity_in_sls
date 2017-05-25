@@ -1,0 +1,18 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+desert,nature,form_similarity,tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/40345.mp4
+desert,nature,form_similarity,tracing,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/40343.mp4
+desert,nature,-,-,nonicon,American Sign Language,https://media.spreadthesign.com/video/mp4/13/63636.mp4
+desert,nature,form_similarity,tracing,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/40341.mp4
+desert,nature,form_similarity,tracing,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/198662.mp4
+desert,nature,assoc_action&form_similarity,handling&tracing,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/123818.mp4
+desert,nature,assoc_action&form_similarity,handling&tracing,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/88885.mp4
+desert,nature,form_similarity,tracing,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/251558.mp4
+desert,nature,-&-,-&-,nonicon&deixis,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/283040.mp4
+desert,nature,-&form_similarity,-&tracing,nonicon&,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/40346.mp4
+desert,nature,form_similarity,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/40342.mp4
+desert,nature,form_similarity,contour+tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/42909.mp4
+desert,nature,form_similarity,contour,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/40344.mp4
+desert,nature,form_similarity,tracing,,Greek Sign Language,https://media.spreadthesign.com/video/mp4/38/193968.mp4
+desert,nature,assoc_action&form_similarity,handling&contour+tracing,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/67781.mp4
+desert,nature,assoc_action&form_similarity,handling&tracing,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/67631.mp4
+desert,nature,form_similarity,contour,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/159210.mp4

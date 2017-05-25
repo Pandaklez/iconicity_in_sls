@@ -1,0 +1,12 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+balloon,transport,-&assoc_action,-&contour+object,nonicon&,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/318903.mp4
+balloon,transport,assoc_action,contour,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/267022.mp4
+balloon,transport,-,-&tracing,dactyl,American Sign Language,https://media.spreadthesign.com/video/mp4/13/244639.mp4
+balloon,transport,form_similarity&assoc_action,tracing&contour,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/250008.mp4
+balloon,transport,form_similarity&assoc_action,tracing&contour,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/279013.mp4
+balloon,transport,form_similarity&assoc_action,tracing&contour,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/237662.mp4
+balloon,transport,form_similarity&assoc_action,tracing&contour,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/267212.mp4
+balloon,transport,assoc_action,object+contour,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/236183.mp4
+balloon,transport,form_similarity&assoc_action,tracing&contour,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/4/267212.mp4
+balloon,transport,assoc_action,contour,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/247202.mp4
+balloon,transport,assoc_action,object+contour,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/243531.mp4

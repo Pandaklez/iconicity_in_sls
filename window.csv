@@ -1,0 +1,20 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+window,house,form_similarity,tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/3133.mp4
+window,house,form_similarity,contour,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/3140.mp4
+window,house,assoc_action,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/308793.mp4
+window,house,form_similarity,tracing,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/3137.mp4
+window,house,-,-,nonicon,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/3135.mp4
+window,house,-,-,nonicon,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/183871.mp4
+window,house,form_similarity&assoc_action,tracing&handling,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/3132.mp4
+window,house,-,-,nonicon,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/86659.mp4
+window,house,-,-,nonicon,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/208880.mp4
+window,house,?,?,?,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/319451.mp4
+window,house,assoc_action,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/3131.mp4
+window,house,-,-,nonicon,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/3138.mp4
+window,house,assoc_action,handling,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/3134.mp4
+window,house,form_similarity,tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/3136.mp4
+window,house,-,-,nonicon,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/3139.mp4
+window,house,form_similarity&assoc_action,tracing&handling,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/222553.mp4
+window,house,form_similarity,tracing,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/74799.mp4
+window,house,form_similarity,tracing,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/70911.mp4
+window,house,form_similarity,tracing,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/152714.mp4

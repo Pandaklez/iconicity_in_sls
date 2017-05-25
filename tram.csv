@@ -1,0 +1,18 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+tram,transport,assoc_action,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/43115.mp4
+tram,transport,assoc_action,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/35129.mp4
+tram,transport,?,?,?,American Sign Language,https://media.spreadthesign.com/video/mp4/13/50918.mp4
+tram,transport,form_similarity,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/51061.mp4
+tram,transport,assoc_action,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/298601.mp4
+tram,transport,assoc_action,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177669.mp4
+tram,transport,assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/46713.mp4
+tram,transport,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/62910.mp4
+tram,transport,parts/wholes&assoc_action,object&object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/127358.mp4
+tram,transport,assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/35131.mp4
+tram,transport,assoc_action,object,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/35128.mp4
+tram,transport,assoc_action,object+contour,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/42256.mp4
+tram,transport,assoc_action,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/78452.mp4
+tram,transport,assoc_action,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103014.mp4
+tram,transport,assoc_action,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/60803.mp4
+tram,transport,assoc_action,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/57637.mp4
+tram,transport,assoc_action,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/54386.mp4

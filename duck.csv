@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+duck,animals,parts/wholes+assoc_action,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/8824.mp4
+duck,animals,parts/wholes+assoc_action,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/8826.mp4
+duck,animals,parts/wholes+assoc_action,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/74979.mp4
+duck,animals,parts/wholes+assoc_action,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/8831.mp4
+duck,animals,parts/wholes+assoc_action,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/8829.mp4
+duck,animals,parts/wholes+assoc_action&assoc_action,object&?,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177633.mp4
+duck,animals,parts/wholes+assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/8825.mp4
+duck,animals,assoc_action,?,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/61678.mp4
+duck,animals,parts/wholes+assoc_action,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/154908.mp4
+duck,animals,parts/wholes+assoc_action,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/8827.mp4
+duck,animals,parts/wholes+assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/8832.mp4
+duck,animals,-,-,nonicon,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/8828.mp4
+duck,animals,parts/wholes+assoc_action,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/8830.mp4
+duck,animals,parts/wholes,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/8833.mp4
+duck,animals,property/holder&parts/wholes+assoc_action,handling&object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103635.mp4
+duck,animals,assoc_action,?,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/56093.mp4
+duck,animals,assoc_action,?,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/66993.mp4
+duck,animals,parts/wholes+assoc_action,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/161148.mp4

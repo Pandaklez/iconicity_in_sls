@@ -1,0 +1,20 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+lamp,house,assoc_action,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/6080.mp4
+lamp,house,assoc_action,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/6081.mp4
+lamp,house,assoc_action,?,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/58465.mp4
+lamp,house,assoc_action,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/6076.mp4
+lamp,house,form_similarity&assoc_action,tracing&object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/6074.mp4
+lamp,house,assoc_action,handling,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/183438.mp4
+lamp,house,assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/6082.mp4
+lamp,house,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/90860.mp4
+lamp,house,form_similarity&assoc_action,tracing&object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/175359.mp4
+lamp,house,assoc_action,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/6079.mp4
+lamp,house,assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/100174.mp4
+lamp,house,assoc_action,object,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/6073.mp4
+lamp,house,assoc_action,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/6075.mp4
+lamp,house,assoc_action,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/6078.mp4
+lamp,house,assoc_action,object,,Greek Sign Language,https://media.spreadthesign.com/video/mp4/38/218863.mp4
+lamp,house,assoc_action,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/26/76845.mp4
+lamp,house,assoc_action,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/76845.mp4
+lamp,house,assoc_action,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/70483.mp4
+lamp,house,form_similarity&assoc_action,tracing&object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/235285.mp4

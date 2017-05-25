@@ -1,0 +1,23 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+bread,food,assoc_action,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/7596.mp4
+bread,food,assoc_action,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/7595.mp4
+bread,food,assoc_action,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/74891.mp4
+bread,food,assoc_action,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/7591.mp4
+bread,food,-,-,nonicon,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/7589.mp4
+bread,food,-,-,nonicon,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/58775.mp4
+bread,food,assoc_action,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177417.mp4
+bread,food,form_similarity,contour,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177419.mp4
+bread,food,assoc_action,handling,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177420.mp4
+bread,food,assoc_action,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/7594.mp4
+bread,food,assoc_action,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/61554.mp4
+bread,food,-,-,nonicon,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/146774.mp4
+bread,food,assoc_action,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/318544.mp4
+bread,food,-,-,nonicon,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/7597.mp4
+bread,food,assoc_action,object,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/7592.mp4
+bread,food,form_similarity,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/7588.mp4
+bread,food,assoc_action,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/7590.mp4
+bread,food,-,-,nonicon,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/52262.mp4
+bread,food,assoc_action,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103514.mp4
+bread,food,assoc_action,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55990.mp4
+bread,food,form_similarity,tracing,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/287887.mp4
+bread,food,assoc_action,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/98067.mp4

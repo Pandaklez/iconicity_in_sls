@@ -1,0 +1,20 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+bus,transport,form_similarity,contour,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/4362.mp4
+bus,transport,assoc_action,handling,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/4361.mp4
+bus,transport,-,-,dactyl,American Sign Language,https://media.spreadthesign.com/video/mp4/13/76795.mp4
+bus,transport,form_similarity,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/4366.mp4
+bus,transport,form_similarity,tracing,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/4364.mp4
+bus,transport,form_similarity,tracing,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/151776.mp4
+bus,transport,form_similarity,tracing,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/4359.mp4
+bus,transport,assoc_action,contour,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/58895.mp4
+bus,transport,?,?,?,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/250431.mp4
+bus,transport,assoc_action,contour,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/4358.mp4
+bus,transport,form_similarity,contour+tracing,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/4367.mp4
+bus,transport,form_similarity,contour+tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/4363.mp4
+bus,transport,form_similarity,contour,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/4365.mp4
+bus,transport,form_similarity,tracing,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/324163.mp4
+bus,transport,assoc_action&form_similarity,handling&tracing,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/102019.mp4
+bus,transport,-,-,nonicon,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/197599.mp4
+bus,transport,assoc_action,contour,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55556.mp4
+bus,transport,assoc_action,contour,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/62987.mp4
+bus,transport,form_similarity,contour,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/54402.mp4

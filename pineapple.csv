@@ -1,0 +1,17 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+pineapple,food,form_similarity,tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/10730.mp4
+pineapple,food,form_similarity,contour,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/10729.mp4
+pineapple,food,-,-,nonicon,American Sign Language,https://media.spreadthesign.com/video/mp4/13/59538.mp4
+pineapple,food,form_similarity&-,tracing&-,&nonicon,British Sign Language,https://media.spreadthesign.com/video/mp4/1/10734.mp4
+pineapple,food,form_similarity,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/10732.mp4
+pineapple,food,form_similarity,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/178089.mp4
+pineapple,food,form_similarity,tracing,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/10737.mp4
+pineapple,food,-&form_similarity,-&contour,nonicon&,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/335666.mp4
+pineapple,food,form_similarity,tracing,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/10735.mp4
+pineapple,food,form_similarity,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/10731.mp4
+pineapple,food,form_similarity,tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/10733.mp4
+pineapple,food,-,-,dactyl,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/10736.mp4
+pineapple,food,-,-,dactyl,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/104085.mp4
+pineapple,food,form_similarity,tracing,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/72935.mp4
+pineapple,food,form_similarity,tracing,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/64333.mp4
+pineapple,food,form_similarity,tracing,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/98015.mp4

@@ -1,0 +1,19 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+bed,house,form_similarity,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/13741.mp4
+bed,house,form_similarity,object,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/13740.mp4
+bed,house,assoc_action,handling,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/123626.mp4
+bed,house,assoc_action,handling,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/13745.mp4
+bed,house,assoc_action&form_similarity,handling&object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/13743.mp4
+bed,house,assoc_action&form_similarity,handling&tracing,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/152504.mp4
+bed,house,form_similarity,contour,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/13748.mp4
+bed,house,form_similarity,tracing,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/60440.mp4
+bed,house,form_similarity,tracing,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/223411.mp4
+bed,house,form_similarity&form_similarity,tracing&handling,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/320807.mp4
+bed,house,assoc_action&form_similarity,handling&tracing,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/13746.mp4
+bed,house,form_similarity,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/13742.mp4
+bed,house,form_similarity,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/13744.mp4
+bed,house,form_similarity,tracing,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/52207.mp4
+bed,house,form_similarity,tracing,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/101990.mp4
+bed,house,form_similarity,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55681.mp4
+bed,house,form_similarity,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/56628.mp4
+bed,house,form_similarity,tracing,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/54259.mp4

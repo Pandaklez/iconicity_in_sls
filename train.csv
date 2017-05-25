@@ -1,0 +1,20 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+train,transport,parts/wholes,object,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/5617.mp4
+train,transport,-,-,nonicon,French Sign Language,https://media.spreadthesign.com/video/mp4/10/5625.mp4
+train,transport,?,?,?,American Sign Language,https://media.spreadthesign.com/video/mp4/13/50917.mp4
+train,transport,parts/wholes,object,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/5622.mp4
+train,transport,assoc_action,object,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/5620.mp4
+train,transport,parts/wholes,object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177665.mp4
+train,transport,parts/wholes,object,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/5618.mp4
+train,transport,parts/wholes,object,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/62429.mp4
+train,transport,-,-,nonicon,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/62424.mp4
+train,transport,parts/wholes,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/208599.mp4
+train,transport,parts/wholes,object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/5616.mp4
+train,transport,-,-,nonicon,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/5623.mp4
+train,transport,parts/wholes,object,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/5619.mp4
+train,transport,parts/wholes,object,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/5621.mp4
+train,transport,assoc_action,object,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/334475.mp4
+train,transport,parts/wholes,object,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103012.mp4
+train,transport,parts/wholes,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/60891.mp4
+train,transport,parts/wholes,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/65125.mp4
+train,transport,parts/wholes,object,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/53144.mp4

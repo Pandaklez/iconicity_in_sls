@@ -1,0 +1,21 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+cake,food,form_similarity,tracing,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/7751.mp4
+cake,food,-,-,nonicon,French Sign Language,https://media.spreadthesign.com/video/mp4/10/7750.mp4
+cake,food,form_similarity,tracing,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/74899.mp4
+cake,food,form_similarity,contour,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/7746.mp4
+cake,food,-&form_similarity,-&handling,nonicon&,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/7744.mp4
+cake,food,-&form_similarity,-&contour,nonicon&,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/177440.mp4
+cake,food,?,handling,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/7749.mp4
+cake,food,form_similarity,contour,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/61564.mp4
+cake,food,form_similarity,tracing,,Polish Sign Language,https://media.spreadthesign.com/video/mp4/19/61573.mp4
+cake,food,-,-,nonicon,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/147963.mp4
+cake,food,assoc_action,handling,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/7752.mp4
+cake,food,-,-,nonicon,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/7747.mp4
+cake,food,form_similarity,tracing,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/7743.mp4
+cake,food,form_similarity,tracing,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/7745.mp4
+cake,food,form_similarity,tracing,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/324105.mp4
+cake,food,form_similarity,tracing,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/324104.mp4
+cake,food,form_similarity&form_similarity,contour&tracing,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/103533.mp4
+cake,food,form_similarity,contour,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55965.mp4
+cake,food,-,-,nonicon,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/64639.mp4
+cake,food,form_similarity,contour,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/160239.mp4

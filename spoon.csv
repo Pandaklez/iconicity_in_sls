@@ -1,0 +1,18 @@
+word,semantic_field,base,pattern,non_iconic,languages,urls
+spoon,instruments,assoc_action,handling,,Russian Sign Language,https://media.spreadthesign.com/video/mp4/12/11829.mp4
+spoon,instruments,assoc_action,handling,,French Sign Language,https://media.spreadthesign.com/video/mp4/10/11820.mp4
+spoon,instruments,assoc_action,object,,American Sign Language,https://media.spreadthesign.com/video/mp4/13/59596.mp4
+spoon,instruments,assoc_action,handling,,British Sign Language,https://media.spreadthesign.com/video/mp4/1/11825.mp4
+spoon,instruments,assoc_action,handling,,Spanish Sign Language,https://media.spreadthesign.com/video/mp4/5/11823.mp4
+spoon,instruments,assoc_action&assoc_action,handling&object,,Italian Sign Language,https://media.spreadthesign.com/video/mp4/17/178120.mp4
+spoon,instruments,assoc_action,handling,,German Sign Language,https://media.spreadthesign.com/video/mp4/9/11828.mp4
+spoon,instruments,assoc_action,object,,Brazilian Sign Language,https://media.spreadthesign.com/video/mp4/14/219042.mp4
+spoon,instruments,assoc_action,handling+object,,Turkish Sign Language,https://media.spreadthesign.com/video/mp4/11/11821.mp4
+spoon,instruments,assoc_action,handling,,Portuguese Sign Language,https://media.spreadthesign.com/video/mp4/6/11826.mp4
+spoon,instruments,form_similarity&assoc_action,tracing&handling,,Czech Sign Language,https://media.spreadthesign.com/video/mp4/4/11822.mp4
+spoon,instruments,assoc_action,handling,,Lithuanian Sign Language,https://media.spreadthesign.com/video/mp4/3/11824.mp4
+spoon,instruments,assoc_action,handling,,Swedish Sign Language,https://media.spreadthesign.com/video/mp4/2/332561.mp4
+spoon,instruments,assoc_action,handling,,Romanian Sign Language,https://media.spreadthesign.com/video/mp4/30/104263.mp4
+spoon,instruments,assoc_action,object,,Latvian Sign Language,https://media.spreadthesign.com/video/mp4/26/55918.mp4
+spoon,instruments,assoc_action,object,,Estonian Sign Language,https://media.spreadthesign.com/video/mp4/25/64700.mp4
+spoon,instruments,assoc_action+form_similarity,object+handling,,Icelandic Sign Language,https://media.spreadthesign.com/video/mp4/21/161006.mp4
