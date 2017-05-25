@@ -1,0 +1,1430 @@
+---
+title: "Github page"
+output:
+  html_document:
+    theme: lumen
+    highlight: tango
+    toc: yes
+    toc_position: right
+    toc_float: yes
+    smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(lingtypology)
+```
+
+### Typology of Iconicity Patterns in Sign Languages
+
+This page represents sign languages' preferences for iconicity patterns and iconicity bases in respect to different iconic signs.
+
+Here is a link to download our dataset: [.csv](https://raw.githubusercontent.com/Pandaklez/Iconicity-in-Sign-Languages/master/annotated_data_new.csv)
+
+### window
+
+```{r}
+df <- read.csv("window.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### bicycle
+
+```{r}
+df <- read.csv("bicycle.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### truck
+
+```{r}
+df <- read.csv("truck.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### boat
+
+```{r}
+df <- read.csv("boat.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### tie
+
+```{r}
+df <- read.csv("tie.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### hat
+
+```{r}
+df <- read.csv("hat.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### socks
+
+```{r}
+df <- read.csv("socks.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### elephant
+
+```{r}
+df <- read.csv("elephant.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### cat
+
+```{r}
+df <- read.csv("cat.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### giraffe
+
+```{r}
+df <- read.csv("giraffe.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### pear
+
+```{r}
+df <- read.csv("pear.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### cucumber
+
+```{r}
+df <- read.csv("cucumber.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### sausage
+
+```{r}
+df <- read.csv("sausage.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### sun
+
+```{r}
+df <- read.csv("sun.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### sky
+
+```{r}
+df <- read.csv("sky.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### tree
+
+```{r}
+df <- read.csv("tree.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### hammer
+
+```{r}
+df <- read.csv("hammer.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### shovel
+
+```{r}
+df <- read.csv("shovel.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### house
+
+```{r}
+df <- read.csv("house.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### wardrobe
+
+```{r}
+df <- read.csv("wardrobe.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### armchair
+
+```{r}
+df <- read.csv("armchair.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### lamp
+
+```{r}
+df <- read.csv("lamp.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### chair
+
+```{r}
+df <- read.csv("chair.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### moon
+
+```{r}
+df <- read.csv("moon.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### flower
+
+```{r}
+df <- read.csv("flower.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### sand
+
+```{r}
+df <- read.csv("sand.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### sea
+
+```{r}
+df <- read.csv("sea.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### car
+
+```{r}
+df <- read.csv("car.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### plane
+
+```{r}
+df <- read.csv("plane.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### train
+
+```{r}
+df <- read.csv("train.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### bus
+
+```{r}
+df <- read.csv("bus.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### underground
+
+```{r}
+mdf <- read.csv("underground.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### tram
+
+```{r}
+df <- read.csv("tram.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### motorbike
+
+```{r}
+df <- read.csv("motorbike.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### helicopter
+
+```{r}
+df <- read.csv("helicopter.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### taxi
+
+```{r}
+df <- read.csv("taxi.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### ship
+
+```{r}
+df <- read.csv("ship.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### balloon
+
+```{r}
+df <- read.csv("balloon.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### mountain
+
+```{r}
+df <- read.csv("mountain.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### island
+
+```{r}
+df <- read.csv("island.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### river
+
+```{r}
+df <- read.csv("river.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### star
+
+```{r}
+df <- read.csv("star.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### lightning
+
+```{r}
+df <- read.csv("lightning.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### rainbow
+
+```{r}
+df <- read.csv("rainbow.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### cloud
+
+```{r}
+df <- read.csv("cloud.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### forest
+
+```{r}
+df <- read.csv("forest.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### lake
+
+```{r}
+df <- read.csv("lake.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### fire
+
+```{r}
+df <- read.csv("fire.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### cave
+
+```{r}
+df <- read.csv("cave.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### desert
+
+```{r}
+df <- read.csv("desert.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### wave
+
+```{r}
+df <- read.csv("wave.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### fork
+
+```{r}
+df <- read.csv("fork.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### spoon
+
+```{r}
+df <- read.csv("spoon.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### knife
+
+```{r}
+df <- read.csv("knife.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### tooth_brush
+
+```{r}
+df <- read.csv("tooth_brush.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### comb
+
+```{r}
+df <- read.csv("comb.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### bear
+
+```{r}
+df <- read.csv("bear.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### dog
+
+```{r}
+df <- read.csv("dog.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### lion
+
+```{r}
+df <- read.csv("lion.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### bird
+
+```{r}
+df <- read.csv("bird.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### cow
+
+```{r}
+df <- read.csv("cow.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### frog
+
+```{r}
+df <- read.csv("frog.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### turtle
+
+```{r}
+df <- read.csv("turtle.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### meat
+
+```{r}
+df <- read.csv("meat.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### banana
+
+```{r}
+df <- read.csv("banana.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### cake
+
+```{r}
+df <- read.csv("cake.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### bread
+
+```{r}
+df <- read.csv("bread.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### pineapple
+
+```{r}
+df <- read.csv("pineapple.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### lemon
+
+```{r}
+df <- read.csv("lemon.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### carrot
+
+```{r}
+df <- read.csv("carrot.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### skirt
+
+```{r}
+df <- read.csv("skirt.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### sweater
+
+```{r}
+df <- read.csv("sweater.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### bracelet
+
+```{r}
+df <- read.csv("bracelet.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### scarf
+
+```{r}
+df <- read.csv("scarf.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### T-shirt
+
+```{r}
+df <- read.csv("T-shirt.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### trousers
+
+```{r}
+df <- read.csv("trousers.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### blouse
+
+```{r}
+df <- read.csv("blouse.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### cup
+
+```{r}
+df <- read.csv("cup.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### kettle
+
+```{r}
+df <- read.csv("kettle.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### key
+
+```{r}
+df <- read.csv("key.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### door
+
+```{r}
+df <- read.csv("door.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### room
+
+```{r}
+df <- read.csv("room.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### bed
+
+```{r}
+df <- read.csv("bed.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### table
+
+```{r}
+df <- read.csv("table.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### fox
+
+```{r}
+df <- read.csv("fox.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### mouse
+
+```{r}
+df <- read.csv("mouse.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### spider
+
+```{r}
+df <- read.csv("spider.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
+
+### duck
+
+```{r}
+df <- read.csv("duck.csv")
+df$urls <- sapply(df$urls, function(x){
+  paste(c("<video width='250' height='200' controls> <source src='",
+          as.character(x),
+          "' type='video/mp4'></video>"), sep = "", collapse = "")})
+set.seed(4)
+map.feature(languages = df$languages,
+            features = df$pattern,
+            stroke.features = df$base,
+            popup = df$urls,
+            title = df$word[1])
+```
